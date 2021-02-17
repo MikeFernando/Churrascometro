@@ -1,5 +1,5 @@
 # Churrascometro
 
 <div align="center">
-  <img src="github/apple.gif" />
+  <img src="github/churras.gif" />
 </div>
